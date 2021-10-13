@@ -1,5 +1,5 @@
 {
-  "name": "node-applest-atem",
+  "name": "node-atem-control",
   "version": "0.2.4",
   "description": "A module to control Blackmagic Design ATEM Switchers.",
   "homepage": "https://github.com/CatLabInteractive/node-applest-atem",
